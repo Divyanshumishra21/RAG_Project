@@ -1,0 +1,13 @@
+streamlit
+transformers
+torch
+sentence-transformers
+faiss-cpu
+langchain
+langchain-community
+pypdf
+python-docx
+numpy
+pandas
+accelerate
+bitsandbytes
