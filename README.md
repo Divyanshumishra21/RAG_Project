@@ -219,4 +219,6 @@ This implementation fulfills all requirements:
 For questions about this implementation, please refer to the code comments and documentation provided throughout the project files.
 
 
-![alt text](<Screenshot 2025-08-01 092 449.png>)
+<p align="center">
+  <img src="workflow_screenshot.png" width="1200"/>
+</p>
