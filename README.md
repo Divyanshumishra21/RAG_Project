@@ -220,5 +220,5 @@ For questions about this implementation, please refer to the code comments and d
 
 
 <p align="center">
-  <img src="workflow_screenshot.png" width="1200"/>
+  <img src="Screenshot 2025-08-01 092449.png" width="1200"/>
 </p>
